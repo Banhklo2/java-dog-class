@@ -10,8 +10,5 @@ public class Main {
         System.out.println("이름은 " + dog1.name + " 종은 " + dog1.breed);
         System.out.println("이름은 " + dog2.name + " 종은 " + dog2.breed);
         System.out.println("이름은 " + dog3.name + " 종은 " + dog3.breed);
-
-
-
     }
 }
